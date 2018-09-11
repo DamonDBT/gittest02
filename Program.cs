@@ -12,7 +12,7 @@ namespace _3Linq
             #region
             //int[] comparValue = { 0, 0, 11, 11, 22, 11, 11, 22, 22 };
 
-            ////方法1
+            ////方法1--加点！！！！
             //var tempV = from c in comparValue group c by c into g select new { value = g.Key, count = g.Count() };
             //var v1 = (from v in tempV orderby v.count descending select v.value).First();
             //Console.WriteLine(v1.ToString());
