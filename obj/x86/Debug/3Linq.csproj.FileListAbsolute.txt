@@ -1,0 +1,8 @@
+E:\codeStudy\1-编程视频教程\传智播客2015 24期.NET\01 基础加强六天\2015-04-14基础加强01\MyCode\Demo1\3Linq\bin\Debug\3Linq.exe
+E:\codeStudy\1-编程视频教程\传智播客2015 24期.NET\01 基础加强六天\2015-04-14基础加强01\MyCode\Demo1\3Linq\bin\Debug\3Linq.pdb
+E:\codeStudy\1-编程视频教程\传智播客2015 24期.NET\01 基础加强六天\2015-04-14基础加强01\MyCode\Demo1\3Linq\obj\x86\Debug\3Linq.exe
+E:\codeStudy\1-编程视频教程\传智播客2015 24期.NET\01 基础加强六天\2015-04-14基础加强01\MyCode\Demo1\3Linq\obj\x86\Debug\3Linq.pdb
+E:\codeStudy\8-C#\Demo1\3Linq\obj\x86\Debug\3Linq.exe
+E:\codeStudy\8-C#\Demo1\3Linq\obj\x86\Debug\3Linq.pdb
+E:\codeStudy\8-C#\Demo1\3Linq\bin\Debug\3Linq.exe
+E:\codeStudy\8-C#\Demo1\3Linq\bin\Debug\3Linq.pdb
